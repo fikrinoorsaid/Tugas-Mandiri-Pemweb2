@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ini Adalah Website Saya</title>
+</head>
+<body>
+	<table width="100%">
+		<tr>
+			<td colspan="10" bgcolor="white" align="center">
+				<img src="masjjid1.jpg" align="center">
+				<h2>Selamat Datang</h2>
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			<td width="30%" bgcolor="#DEDEDE" valign="top">
+				<p align="center"><b>Menu Utama</b></p>
+				<ul>
+					<li>Home</li>
+					<li>Galery</li>
+					<li>Profil</li>
+				</ul>
+			</td>
+			<td  bgcolor="red">
+				ini tuh isinya tau jadi ini buat kasih penjelasan gitu deh
+				<br><br><br><br><br><br><br><br><br><br>
+			<td width="30%" bgcolor="#DEDEDE" valign="top">
+			<p align="center"><b>Kontak</b></p>
+			<ul>
+				<li>Whatsapp</li>
+				<li>Twitter</li>
+				<li>Email Cs</li>
+			</ul>
+
+		</tr>	
+		</tr>
+		<tr>
+		<tr>
+			<td colspan="10" bgcolor="#009900" align="center">
+				<small>&copy; 2022 - Fikri Production</small>
+			</td>
+	</table>
+	
